@@ -2,7 +2,7 @@
   "name": "Ariana Grande",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "DiscordInfo",
   "scripts": {
     "start": "node bot.js"
   },
